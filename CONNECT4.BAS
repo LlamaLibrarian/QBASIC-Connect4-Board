@@ -2,7 +2,7 @@ DIM column(49 TO 55) AS INTEGER, colorfor(-1 TO 0) AS INTEGER
 colorfor(-1) = 4
 colorfor(0) = 7
 SCREEN 12
-Newgame:  moves$ = ""
+Newgame: moves$ = ""
 FOR j% = 49 TO 55
   column(j%) = 417
 NEXT
@@ -29,4 +29,3 @@ SELECT CASE key$
   CASE "X": SYSTEM
 END SELECT
 GOTO Getkeypress
-
