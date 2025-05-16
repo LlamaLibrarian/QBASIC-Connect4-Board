@@ -1,4 +1,4 @@
-This is just a minimalist Connect4 board that runs under MS-DOS QBASIC version 1.1 interpreter.
+This is a minimalist Connect4 board that runs under MS-DOS QBASIC version 1.1 interpreter.
 
 Usage:
 
@@ -8,10 +8,10 @@ QBASIC /run CONNECT4.BAS
 
 Note:
 
-On screen text colour indicates whose turn to drop in the next token.
+On-screen text colour indicates whose turn to drop in the next token.
 
 Press 1 to 7 to enter the next token into the column.
 
-Press N to clear board for a new game.
+Press N clears board for a new game.
 
 Press X to exit game.
