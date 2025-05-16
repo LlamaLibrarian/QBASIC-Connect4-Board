@@ -8,7 +8,7 @@ QBASIC /run CONNECT4.BAS
 
 Note:
 
-On-screen text colour indicates whose turn to drop in the next token.
+The on-screen text colour indicates whose turn to drop in the next token.
 
 Press 1 to 7 to enter the next token into the column.
 
