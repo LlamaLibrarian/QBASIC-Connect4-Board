@@ -26,6 +26,6 @@ SELECT CASE key$
                    moves$ = moves$ + key$
                    GOTO Showmoves
   CASE "N": IF LEN(moves$) THEN GOTO Newgame
-  CASE "X": SYSTEM
+  CASE "X": END
 END SELECT
 GOTO Getkeypress
